@@ -1,0 +1,23 @@
+.mainpara {
+    font-size: 15pt;
+    font-family:'trebuchet ms';
+    padding:20;
+    border-color:#736AFF;
+    position:absolute;
+    top:50;
+    left: 200;
+    border-style: dotted;
+}
+.copyright {
+    width:375px;
+    font-size:12pt;
+    font-weight:bold;
+    font-family:serif;
+    background-color:black;
+    color:white;
+    position: absolute;
+    top:300;
+    left:500;
+    padding:5;
+}
+body {background-color:#E0FFFF; color:#7F5217;}
