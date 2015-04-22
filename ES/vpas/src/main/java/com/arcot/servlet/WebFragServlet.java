@@ -25,7 +25,6 @@ public class WebFragServlet extends HttpServlet {
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("Web Fragment Servlet:" + new Date());
-
 		response.setContentType("text/html");
 		PrintWriter out = response.getWriter();
 		out.println("Hello from webfragment servlet");

@@ -4,7 +4,7 @@
 <link rel=stylesheet type="text/css"  href="styles.css">
 </head>
 <body>
-<p>This is a static resource file served up from jSwengsol.jar</p>
-<p>Damodar Chetty, Software Engineering Solutions, Inc.</p>
+<p></p>
+<p>Balaji Nandarapu</p>
 </body>
 </html>
